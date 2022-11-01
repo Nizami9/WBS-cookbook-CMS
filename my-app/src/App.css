@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+/* HEADER */
+
+.headerSec{
+  background-image: url('https://t4.ftcdn.net/jpg/03/32/75/39/360_F_332753934_tBacXEgxnVplFBRyKbCif49jh0Wz89ns.jpg');
+}
+
+/* /HEADER */
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
