@@ -14,14 +14,13 @@ body {
 /* HEADER */
 
 .headerSec{
-  background-image: url('https://www.lg.com/eg_en/images/microsite/cookbook-meat-in-pots/cookbook-meat-in-pots-14-Meat-In-Pots-01-KV-D.jpg');
+  /* background-image: url('https://www.lg.com/eg_en/images/microsite/cookbook-meat-in-pots/cookbook-meat-in-pots-14-Meat-In-Pots-01-KV-D.jpg'); */
   width: 100%;
   height: 400px;
-  background-repeat: no-repeat;
-  background-size: 100%;
   text-align: center;
   color: white;
-  opacity: 0.8;
+  background-color: #d3d0a9;
+  opacity: 0.9;
 }
 
 .headerSec h1 {
@@ -29,6 +28,15 @@ margin: 0%;
 font-size: 100px;
 background-color: rgba(rgb(87, 65, 65), rgb(29, 35, 29), rgb(34, 34, 45), alpha, 0.1);
 }
+
+.headerSec img {
+background-repeat: repeat;
+background-size: contain;
+width: 100%;
+object-fit: cover;
+height: 400px;;
+}
+
 
 /* /HEADER */
 
