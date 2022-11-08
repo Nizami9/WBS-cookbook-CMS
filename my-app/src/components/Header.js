@@ -18,7 +18,7 @@ let Header = () => {
           <img src={fadeImages[0]} />
           <img src={fadeImages[1]} />
           <img src={fadeImages[2]} />
-          <img src={fadeImages[4]} />
+          <img src={fadeImages[3]} />
       </Fade>
     </div>
   );
