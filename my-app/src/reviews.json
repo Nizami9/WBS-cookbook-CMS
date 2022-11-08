@@ -1,17 +1,25 @@
+{"reviews":[
+  {
+  "name": "New York Times",
+  "year": "2022",
+  "quote": "Best cookbook of the year"
+},
+
 {
- { "name": "New York Times",
-  "year": "2022",
-   "quote": "Best cookbook of the year"}
-
-  { "name": "My Mom",
+  "name": "My Mom",
   "year": "2021",
-   "quote": "Meh"}
+  "quote": "Meh"
+},
 
- { "name": "Cosmopolitan",
+{
+  "name": "Cosmopolitan",
   "year": "2022",
-   "quote": "Awesome"}
+  "quote": "Awesome"
+},
 
- { "name": "other important people",
+{
+  "name": "other important people",
   "year": "2022",
-   "quote": "All you need is this cookbook"}
+  "quote": "All you need is this cookbook"
 }
+] }

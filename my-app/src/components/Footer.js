@@ -1,9 +1,21 @@
-import React from 'react'
+import React, { useState } from "react";
+import Reviews from "../Reviews.json";
 
 function Footer() {
+  let { reviews } = Reviews;
+
   return (
-    <div>Footer</div>
-  )
+    <div>
+      <p>Footer</p>
+      {reviews.map((r) => (
+        <div>
+          <h1>{r.quote}</h1>
+          <p>{r.name}</p>
+          <p>{r.year}</p>
+        </div>
+      ))}
+    </div>
+  );
 }
 
-export default Footer
+export default Footer;
