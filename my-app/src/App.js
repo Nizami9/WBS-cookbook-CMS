@@ -46,6 +46,11 @@ class App extends React.Component {
               <Posts posts={this.state.articles} />
             </div>
           </main>
+          <footer>
+            <div className='footer'>
+              <Footer />
+            </div>
+          </footer>
         </div>
       </div>
     );
