@@ -1,11 +1,6 @@
 import React from "react";
-<<<<<<< HEAD
-import Reviews from "../reviews.json";
-import "../footer.css"
-=======
-import Reviews from "../Reviews.json";
+import Reviews from "../../reviews.json";
 import "./footer.css"
->>>>>>> aa80823 (style flex footer)
 
 function Footer() {
   let { reviews } = Reviews;
