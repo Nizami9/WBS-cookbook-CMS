@@ -50,13 +50,19 @@ main .wrapper{
   padding: 20px;
   margin-bottom: 50px;
   background-color: white;
+  text-align:justify;
+  width: 70%;
+  margin: auto;
   /* box-shadow: 0px 2px rgba(185, 136, 136, 0.13) ,-1px -2px rgba(7, 6, 6, 0.05); */
 
 }
 .post img{
   display: block;
   height: 50%;
-  width: 100%;
+  width: 70%;
+margin: auto;
+padding: 30px;
+ 
 }
 .title{
   display: flex;
@@ -65,4 +71,10 @@ main .wrapper{
   text-transform: uppercase;
   font-size: 1.8em;
   color: rgb(81, 80, 80);
+}
+
+h2 {
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+ 
 }
