@@ -71,11 +71,7 @@ height: 400px;;
   }
 }
 .footer {
-  display: flex;
-  justify-content: space-around;
-
-}
-
-.footerComponent {
   
+  width: 100vh;
 }
+

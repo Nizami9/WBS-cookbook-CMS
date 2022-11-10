@@ -1,7 +1,8 @@
 .footerComponent {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-  padding: 2rem;
+    justify-content: space-around;
+    width: 100% ;
+ 
 
 }
