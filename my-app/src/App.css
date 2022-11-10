@@ -70,3 +70,12 @@ height: 400px;;
     transform: rotate(360deg);
   }
 }
+.footer {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.footerComponent {
+  
+}
