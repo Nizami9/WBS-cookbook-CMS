@@ -1,0 +1,25 @@
+{"reviews":[
+    {
+    "name": "New York Times",
+    "year": "2022",
+    "quote": "Best cookbook of the year"
+  },
+  
+  {
+    "name": "My Mom",
+    "year": "2021",
+    "quote": "Meh"
+  },
+  
+  {
+    "name": "Cosmopolitan",
+    "year": "2022",
+    "quote": "Awesome"
+  },
+  
+  {
+    "name": "other important people",
+    "year": "2022",
+    "quote": "All you need is this cookbook"
+  }
+  ] }
