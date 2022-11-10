@@ -1,5 +1,5 @@
 import React from "react";
-import Reviews from "../Reviews.json";
+import Reviews from "../reviews.json";
 
 function Footer() {
   let { reviews } = Reviews;
