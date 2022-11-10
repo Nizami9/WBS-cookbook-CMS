@@ -1,11 +1,12 @@
 import React from "react";
 import Reviews from "../reviews.json";
+import "../footer.css"
 
 function Footer() {
   let { reviews } = Reviews;
 
   return (
-    <div>
+    <div className="footerComponent">
       <p>Footer</p>
       {reviews.map((r) => (
         <div>
