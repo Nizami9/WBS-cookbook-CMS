@@ -29,8 +29,11 @@ class App extends React.Component {
       })
 
       .catch(console.error);
-  }
+      }
+
+      
   render() {
+    console.log(process.env.REACT_APP_ROXI);
     return (
       <div className="App">
         <div className="container">
