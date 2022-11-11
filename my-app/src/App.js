@@ -52,7 +52,7 @@ class App extends React.Component {
           </main>
           <footer>
             <div className='footer'>
-              <Footer className="footer"/>
+              <Footer />
             </div>
           </footer>
         </div>
