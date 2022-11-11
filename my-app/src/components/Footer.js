@@ -1,5 +1,5 @@
 import React from "react";
-import Reviews from "../../reviews.json";
+import Reviews from "../reviews.json";
 import "./footer.css"
 
 function Footer() {
